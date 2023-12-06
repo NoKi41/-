@@ -1,0 +1,33 @@
+﻿  Tetris.cpp
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(165,67): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(201,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(327,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(327,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(333,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(333,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(350,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(350,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(357,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(357,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(364,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(364,23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(365,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(373,53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(373,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(377,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(377,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(381,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(381,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(454,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(454,30): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(455,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(455,30): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(456,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(456,30): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(457,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(457,36): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(463,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(464,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\Project_GUI\Tetris.cpp(499,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Project_GUI.vcxproj -> C:\Users\Administrator\Desktop\gxm\GUI_GXM\GUI_GXM\Project_GUI\x64\Debug\Project_GUI.exe
